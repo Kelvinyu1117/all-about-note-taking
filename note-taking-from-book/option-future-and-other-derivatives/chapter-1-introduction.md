@@ -2,7 +2,7 @@
 ----
 
 ## Market Types
-----
+
 ### Exchange-traded markets
 * A regulated exchange, provide a standardized contract to the market participants.
 
@@ -15,7 +15,6 @@
 ---
 
 ## Introduction to Some Common Derivatives
----
 
 ### Forward Contracts and Future Contracts
 * It is an obligation to buy or sell a certain asset at certain future time for a certain price.  
@@ -38,6 +37,7 @@ $$
 $$
     \text{payoff} = K - S_k
 $$
+
 ![](../option-future-and-other-derivatives/img/forward-short.png)
 
 ### Options
@@ -50,7 +50,6 @@ $$
   
 ---
 ## Types of Traders
----
 
 ### Hedgers
 Using derivatives to reduce the risk from the movement of the market variable
