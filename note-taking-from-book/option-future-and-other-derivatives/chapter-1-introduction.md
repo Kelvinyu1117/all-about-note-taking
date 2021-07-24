@@ -1,4 +1,4 @@
-# Chapter Summary
+# Chapter 1 Summary
 ----
 
 ## Market Types
