@@ -37,6 +37,7 @@ $$
 $$
     \text{payoff} = K - S_k
 $$
+
 ![](../option-future-and-other-derivatives/img/forward-short.png)
 
 ### Options
